@@ -95,6 +95,11 @@ header .avatar {
   gap: 1.6rem;
 }
 
+.cards .streamers .items img {
+  border: 2px solid #443e54;
+  border-radius: 5rem;
+}
+
 .games,
 .streamers,
 .social {
